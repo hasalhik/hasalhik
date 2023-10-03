@@ -3,7 +3,7 @@
 
 Я учусь на 2 курсе магистратуры по направлению "Программная инженерия" в РТУ МИРЭА . В качестве дипломного проекта создал мобильное приложения на Kotlin для работы с документами. Владею базавыми навыками написания SQL запросов к БД. Знаю принципы ориентированного программирования.  Прошел курс по основам сетевых технологий Cisco. Заинтересован заниматься разработкой программного обеспечения. 
 - : Закончил програму баклавриата в РТУ МИРЭА по направления "Инaорматика и вычислительная техника"
-- : Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/hasalhik) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:venskus.anton@gmail.com)
+- : Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-hasalhik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/hasalhik) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:venskus.anton@gmail.com)
 
 ### Технологии:
 
